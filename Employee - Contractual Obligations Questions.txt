@@ -1,0 +1,20 @@
+- What are the work days?
+- How many hours total of workhours per week?
+- How many vacation days?
+- Am I obligated to work during national holidays?
+- What is the overtime culture in the organization?
+- Where is the work location?
+- Is the work location stated clearly in the contract?
+- Do you have a probationary period?
+- Can I take vacations during my propationary period?
+- Do provide medical insurance?
+- Who is the insurance provider?
+- Is there medical insurance coverage for parents and dependents?
+- What is the job title?
+- Do you have desiganted parkings?
+- How do you track employee time?
+    - Is it a bio-metric tracking?
+    - Is it a paper timesheet?
+    - Is it an elecronic timesheet?
+    - Is it a electronically tracked on employee computers?
+

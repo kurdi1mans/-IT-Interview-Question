@@ -1,0 +1,21 @@
+-	In case of a data leaks, what could be a proposed procedure to follow?
+-	If you use a public Wi-Fi in a public place (café, airport, etc.), what are the possible attacks you might be exposed to?
+    -	Man-in-the-middle attack through ARP poisoning attack
+    -	How do you protect against that?
+        -	VPN
+-	What is public-key encryption (Asymmetric Encryption)?
+    -	Give an example of such an encryption algorithm?
+        -	RSA algorithm
+-	What is Diffie-Hellman key exchange?
+    -	What is the benefit of a such a key exchange protocol?
+-	How are password stored in databases?
+    -	Mostly, stored as hashed values
+-	Can you name a few hashing algorithms?
+    -	MD5, SHA1, SHA2
+-	What are rainbow tables? What are rainbow table attacks?
+-	What is Cross-Site Scripting (XSS) attacks?
+-	What are SQL-Injection attacks?
+-	What are the different layers of the OSI model?
+-	What is the difference between HTTP vs HTTPs?
+-	What are the ports of HTTP and HTTPs targets?
+-	What is a DoS/DDoS attack?
