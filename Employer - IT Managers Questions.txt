@@ -1,0 +1,7 @@
+- How do you estimate the amount of time for Backlog items?
+    - Can the estimate be inaccurate?
+    - Give examples
+    - If you one care about delivering on deadlines, how do you reconcile that with the uncertainty of your estimates?
+    - Do you think the developer should work to deliver on-time even thought the effort might be under-estimated for the task?
+- How do you reconcile the project plan with the agile backlog?
+- Can you talk about the impact of technology stack decisions on a project?

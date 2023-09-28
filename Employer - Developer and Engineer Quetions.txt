@@ -1,1 +1,38 @@
-- 
+- What technology Stacks did you work on?
+    - Web Applications
+        - Front-End
+            - React, VueJs, AngularJS, Redux, etc
+        - Backend
+            - NodeJs, PHP, ASP.net
+            - Object Relational Mapping libraries (ORM)
+        - Databases
+            - Relational
+                - Oracle DB, MySQL, MS MySQL
+            - Document
+                - MongoDB
+            - Graph and Others
+                - Neo4J
+    - Mobile
+- Knowledge of Protocols?
+    - What is the difference between SOAP and REST APIs?
+    - Have you dealth with GraphQL API?
+    - What is the difference between HTTP/HTTPs, Websocket, Webtransport?
+- In a single application with a single database, you can start, commit, rollback transactions. In large integrated systems, you do not have that luxury. How do you deal with operations that require transactional processing in such a case?
+    - SAGAS: call to do and undo operations. To rollback, call the undo for already done opeartions.
+- Do you have expereince with Containers and Container Deployment Solutions?
+    - Docker
+    - Kubernetes
+- What cloud service providers have you worked with?
+    - GCP, AWS, Azure, Oracle, Alibaba, Huawei
+- What Programming Languages do you know?
+    - javascript/PHP
+    - Java/C/C++/C#//Rust
+- What is the primary method of managment you prefer to use?
+    - Waterfall: Requirements Phase, Budgetting, Planning, implementation, Testing
+    - Agile Approach: Backlog, Sprints, Burndown Charts
+- Do you have a github profile?
+- What tools do you use to test APIs?
+    - Postman and SoapUI
+- How do you authenticate a user?
+    - JSON webtokens
+    - Session Tokens
